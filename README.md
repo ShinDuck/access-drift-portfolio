@@ -1,4 +1,4 @@
-# Access Drift — 개인 기여 포트폴리오
+# Access Drift — 개인 포트폴리오
 
 퇴사·부서 이동·계약 종료 후 남은 접근 권한을 검토하는 보안 운영 대시보드입니다. **Microsoft Data School 팀 프로젝트에서 ShinDuck의 PO 기획 안과 Streamlit 대시보드 구현을 정리한 개인 포트폴리오**입니다.
 
