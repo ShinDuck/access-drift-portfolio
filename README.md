@@ -41,8 +41,13 @@ streamlit run app.py
 
 원본의 이미지/브랜드 자산은 가져오지 않았습니다. 이미지가 없을 때 일반 텍스트 SVG로 표시하는 포트폴리오용 보완 코드를 추가했습니다. 데모의 인명·메일 주소는 일반 예시로 치환했습니다. 팀 공용 README, 운영 문서, 인프라, CI, 원본 데이터 및 Git 이력은 제외했습니다.
 
-## 확인 범위
+## 대시보드 화면
 
-선별한 Python 파일의 문법과 데이터 로딩·스키마 정합성을 확인했습니다. 이 작업 환경에서는 Streamlit 전체 UI를 실행하지 못했으므로 실제 화면의 렌더링은 별도 확인이 필요합니다. 이 저장소는 팀 시스템 전체의 실행본이 아닙니다.
+- Overview
+  <img width="4338" height="2580" alt="Chrome Desktop" src="https://github.com/user-attachments/assets/eac507e9-5316-43a4-aafd-d1d69b0e35ec" />
 
-Private로 준비했으며 공개 전환은 소유자의 확인 후 진행합니다.
+- Risk Card (위험 분석, 권장 조치, 티켓 발급)
+  <img width="1296" height="1045" alt="1" src="https://github.com/user-attachments/assets/ee22f5f8-15f9-46e8-8bbb-44886634a22f" />
+  <img width="1296" height="1045" alt="2" src="https://github.com/user-attachments/assets/e3df7122-4bf2-4a91-b369-37c002be0f31" />
+  <img width="1296" height="1045" alt="3" src="https://github.com/user-attachments/assets/93af1d1d-3f5c-4e42-9fbf-5bb57be818c9" />
+
