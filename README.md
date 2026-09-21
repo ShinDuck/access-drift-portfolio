@@ -6,13 +6,13 @@
 
 **담당: PO — MVP 요구사항·유저스토리 원안 작성, 대시보드 UI/UX 설계 및 Streamlit 구현.**
 
-| 자료 | 확인할 내용 | 기여·출처 |
-| --- | --- | --- |
-| [PRD / MVP 요구사항](docs/product/prd.md) | 문제 정의, 타깃 사용자, MVP 범위, 기능·성공 기준 | ShinDuck 원안 · Pexy99 등록 |
-| [MVP 유저스토리](docs/product/mvp-user-stories.md) | 4개 Epic, 11개 Feature, 수용 기준, 우선순위 | ShinDuck 원안 · Pexy99 등록 |
-| [요구사항 → 화면 연결](docs/product/po-contribution.md) | F1.1~F3.1과 구현 파일 연결, 기획·구현 범위 구분 | 이번 포트폴리오 정리 문서 |
-| [Sprint 1 범위](docs/product/sprint1-scope.md) | S1 필수 범위와 S2/Backlog 구분, 완료 기준 | 팀 공용 맥락 자료 |
-| [MVP 데모 시나리오](docs/product/demo.md) | 대표 NHI 잔존 접근 사례와 Risk Card 흐름 | 팀 공용 맥락 자료 |
+| 자료 | 확인할 내용 |
+| --- | --- |
+| [PRD / MVP 요구사항](docs/product/prd.md) | 문제 정의, 타깃 사용자, MVP 범위, 기능·성공 기준 |
+| [MVP 유저스토리](docs/product/mvp-user-stories.md) | 4개 Epic, 11개 Feature, 수용 기준, 우선순위 |
+| [요구사항 → 화면 연결](docs/product/po-contribution.md) | F1.1~F3.1과 구현 파일 연결, 기획·구현 범위 구분 |
+| [Sprint 1 범위](docs/product/sprint1-scope.md) | S1 필수 범위와 S2/Backlog 구분, 완료 기준 |
+| [MVP 데모 시나리오](docs/product/demo.md) | 대표 NHI 잔존 접근 사례와 Risk Card 흐름 |
 
 
 ## 대시보드 담당 범위와 결과
